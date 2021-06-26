@@ -3,7 +3,6 @@ module.exports = {
     password: 'root',
     database: 'mobigic_db',
     host: 'localhost',
-    port: 3307,
     dialect: 'mysql',
     define: {
       underscored: true
